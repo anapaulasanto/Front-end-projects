@@ -4,6 +4,15 @@
 <h2>📚 Aplicações</h2>
 
 
+- <h3>Portfólio pessoal</h3>
+<h4><a href="https://anapaulasanto.github.io/Portf-lio/">Clique para visitar o projeto</a></h4>
+<img src="portfolio.png" alt="Exemplo imagem" width= "400px">
+
+>Portfólio pessoal.
+
+<br>
+
+
 
 - <h3>IA Salon</h3>
 <h4><a href="https://github.com/anapaulasanto/IA-Salon">Clique para visitar o projeto</a></h4>
