@@ -30,6 +30,14 @@
 
 <br>
 
+- <h3>Cadastro e listagem de produutos</h3>
+<h4><a href="https://github.com/anapaulasanto/Projeto-study-async">Clique para visitar o projeto</a></h4>
+<img src="cadastro.png" alt="Exemplo imagem" width= "400px">
+
+> Aplicação em que é possivel adicionar produtos, excluir, acessar, e exibir os produtos cadastrados, utilizando Python(Django)
+
+<br>
+
 - <h3>Rockstar Games</h3>
 <h4><a href="https://github.com/anapaulasanto/Project-Rockstar-Games">Clique para visitar o projeto</a></h4>
 <img src="rockstar.png" alt="Exemplo imagem" width= "400px">
