@@ -12,16 +12,6 @@
 
 <br>
 
-
-
-- <h3>IA Salon</h3>
-<h4><a href="https://github.com/anapaulasanto/IA-Salon">Clique para visitar o projeto</a></h4>
-<img src="ia-salon.png" alt="Exemplo imagem" width= "400px">
-
->Projeto que simula um site de salão de beleza.
-
-<br>
-
 - <h3>iMovi</h3>
 <h4><a href="https://github.com/anapaulasanto/iMovi">Clique para visitar o projeto</a></h4>
 <img src="imovi.png" alt="Exemplo imagem" width= "400px">
@@ -35,14 +25,6 @@
 <img src="cadastro.png" alt="Exemplo imagem" width= "400px">
 
 > Aplicação em que é possivel adicionar produtos, excluir, acessar, e exibir os produtos cadastrados, utilizando Python(Django)
-
-<br>
-
-- <h3>Rockstar Games</h3>
-<h4><a href="https://github.com/anapaulasanto/Project-Rockstar-Games">Clique para visitar o projeto</a></h4>
-<img src="rockstar.png" alt="Exemplo imagem" width= "400px">
-
->Aplicação que simula o site da Rockstar - GTA V.
 
 <br>
 
