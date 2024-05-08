@@ -45,17 +45,9 @@
 
 <br>
 
-- <h3>Costs</h3>
-<h4><a href="https://github.com/anapaulasanto/Costs-Project-ReactJs">Clique para visitar o projeto</a></h4>
-<img src="costs.png" alt="Exemplo imagem" width= "400px">
-
->Aplicação que simula um site de criação e gerenicamento de projetos.
-
-<br>
-
 - <h3>Culture library</h3>
 <h4><a href="https://github.com/anapaulasanto/library-reactjs">Clique para visitar o projeto</a></h4>
-<img src="costs.png" alt="Exemplo imagem" width= "400px">
+<img src="banner.png" alt="Exemplo imagem" width= "400px">
 
 >Aplicação que simula uma biblioteca de livros utitlizando React.Js.
 
