@@ -57,10 +57,11 @@
 <p>Para o desenvolvimento dessas aplicações foram utilizadas as seguintes tecnologias:</p>
 
 - <h3>JavaScript</h3>
-
 - <h3>React.Js</h3>
- 
 - <h3>Bootstrap</h3> 
+- <h3>Tailwind</h3> 
+- <h3>Shadcnui</h3> 
+- <h3>React Icons</h3> 
 
 <br>
 <h2> 💻 Autor</h2>
