@@ -12,14 +12,6 @@
 
 <br>
 
-- <h3>iMovi</h3>
-<h4><a href="https://github.com/anapaulasanto/iMovi">Clique para visitar o projeto</a></h4>
-<img src="imovi.png" alt="Exemplo imagem" width= "400px">
-
->Projeto que simula um site de imobiliária.
-
-<br>
-
 - <h3>Cadastro e listagem de produtos</h3>
 <h4><a href="https://github.com/anapaulasanto/Projeto-study-async">Clique para visitar o projeto</a></h4>
 <img src="cadastro.png" alt="Exemplo imagem" width= "400px">
@@ -50,6 +42,14 @@
 <img src="banner.png" alt="Exemplo imagem" width= "400px">
 
 >Aplicação que simula uma biblioteca de livros utitlizando React.Js.
+
+<br>
+
+- <h3>Todo List</h3>
+<h4><a href="https://github.com/anapaulasanto/todo-list/tree/main">Clique para visitar o projeto</a></h4>
+<img src="banner.png" alt="Exemplo imagem" width= "400px">
+
+>Aplicação de listagem de tarefas.
 
 <br>
 
