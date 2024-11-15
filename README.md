@@ -47,7 +47,7 @@
 
 - <h3>Todo List</h3>
 <h4><a href="https://github.com/anapaulasanto/todo-list/tree/main">Clique para visitar o projeto</a></h4>
-<img src="banner.png" alt="Exemplo imagem" width= "400px">
+<img src="img1.png" alt="Exemplo imagem" width= "400px">
 
 >Aplicação de listagem de tarefas.
 
