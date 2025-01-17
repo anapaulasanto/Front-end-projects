@@ -12,6 +12,14 @@
 
 <br>
 
+- <h3>Salão de beleza</h3>
+<h4><a href="https://github.com/anapaulasanto/IA-Salon/tree/main">Clique para visitar o projeto</a></h4>
+<img src="ia-salon.png" alt="Exemplo imagem" width= "400px">
+
+> Projeto do IA Salon.
+
+<br>
+
 - <h3>Cadastro e listagem de produtos</h3>
 <h4><a href="https://github.com/anapaulasanto/Projeto-study-async">Clique para visitar o projeto</a></h4>
 <img src="cadastro.png" alt="Exemplo imagem" width= "400px">
@@ -50,6 +58,15 @@
 <img src="img1.png" alt="Exemplo imagem" width= "400px">
 
 >Aplicação de listagem de tarefas.
+
+
+<br>
+
+- <h3>Rota Segura</h3>
+<h4><a href="https://github.com/anapaulasanto/rota-segura">Clique para visitar o projeto</a></h4>
+<img src="rota-segura.png" alt="Exemplo imagem" width= "400px">
+
+>Aplicação em desenvolvimento que busca e filtra as melhores rotas para ciclistas e pedestres.
 
 <br>
 
