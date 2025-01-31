@@ -64,6 +64,18 @@
 
 <br>
 
+<br>
+
+- <h3>Technology News</h3>
+<h4><a href="https://github.com/anapaulasanto/technology-news">Clique para visitar o projeto</a></h4>
+<img src="news.png" alt="Exemplo imagem" width= "400px">
+
+>Aplicação de notícias em que é possível buscar uma notícia e navegar entre elas utilizando a API do News API.
+
+<br>
+
+
+
 <h2>💼 Tecnologias utilizadas</h2>
 <p>Para o desenvolvimento dessas aplicações foram utilizadas as seguintes tecnologias:</p>
 
