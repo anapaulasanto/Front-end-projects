@@ -58,7 +58,7 @@
 
 - <h3>Rota Segura</h3>
 <h4><a href="https://github.com/anapaulasanto/rota-segura">Clique para visitar o projeto</a></h4>
-<img src="rota-segura.png" alt="Exemplo imagem" width= "400px">
+<img src="readme.png" alt="Exemplo imagem" width= "400px">
 
 >Aplicação web full-stack desenvolvida com o objetivo de oferecer uma solução completa e inteligente para o planejamento de rotas em ambientes urbanos.
 
