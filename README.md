@@ -60,7 +60,7 @@
 <h4><a href="https://github.com/anapaulasanto/rota-segura">Clique para visitar o projeto</a></h4>
 <img src="rota-segura.png" alt="Exemplo imagem" width= "400px">
 
->Aplicação em desenvolvimento que busca e filtra as melhores rotas para ciclistas e pedestres.
+>Aplicação web full-stack desenvolvida com o objetivo de oferecer uma solução completa e inteligente para o planejamento de rotas em ambientes urbanos.
 
 <br>
 
@@ -85,6 +85,9 @@
 - <h3>Tailwind</h3> 
 - <h3>Shadcnui</h3> 
 - <h3>React Icons</h3> 
+- <h3>React Toastify</h3>
+- <h3>React Hook Form</h3>
+- <h3>JWT</h3>
 
 <br>
 <h2> 💻 Autor</h2>
