@@ -93,11 +93,12 @@
 - <h3>React.Js</h3>
 - <h3>Bootstrap</h3> 
 - <h3>Tailwind</h3> 
+- <h3>DaisyUI</h3>
 - <h3>Shadcnui</h3> 
 - <h3>React Icons</h3> 
 - <h3>React Toastify</h3>
 - <h3>React Hook Form</h3>
-- <h3>JWT</h3>
+- <h3>React Query</h3>
 
 <br>
 <h2> 💻 Autor</h2>
